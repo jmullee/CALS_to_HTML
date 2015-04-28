@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>XSLT: cals to html..</title>
+</head>
+<body>
+
+problem: large (~2000 row) CALS table processing fails with norman walsh's table.xsl<br>
+solution: tail-recursive xslt2 stylesheet (requires <a href="http://saxon.sourceforge.net/">Saxon</a>)<br>
+<br>
+<a href="test2lc.xml">input problem xml (1.1MB)</a> <a href="test2lc.xml.gz">(gzip:32kB)</a><br>
+<a href="cals_to_html.xslt">cals_to_html XSLT stylesheet solution (17kB)</a> <a href="cals_to_html.xslt.gz">(gzip:4kB)</a><br>
+<a href="output_tidy.html">output html (377kB)</a> <a href="output_tidy.html.gz">(gzip:24kB)</a><br>
+<br>
+<a href="all.zip">(all files zipped : 61kB)</a>
+<br>
+<br>
+Processing took 10 minutes on a 1.8GHz Pentium 4<br>
+memory usage : Stack: &lt; 48MB ; heap: ~ 64MB<br>
+
+</body>
+</html>

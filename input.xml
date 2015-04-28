@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf8"?>
+<table frame="all" colsep="1" rowsep="1" id="n00010026|00030002">
+  <tgroup cols="6" tgroupstyle="veritas" colsep="1" rowsep="1" align="left" charoff="50" char="">
+    <colspec colnum="1" colname="1" colwidth="0.175in"/>
+    <colspec colnum="2" colname="2" colwidth="2.272in"/>
+    <colspec colnum="3" colname="3" colwidth="1.865in"/>
+    <colspec colnum="4" colname="4" colwidth="0.524in"/>
+    <colspec colnum="5" colname="5" colwidth="0.408in"/>
+    <colspec colnum="6" colname="6" colwidth="0.583in"/>
+    <thead valign="middle">
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rotate="0">
+          <para>name</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rotate="0">
+          <para>see</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rotate="0" align="center">
+          <para>un no.</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rotate="0" align="center">
+          <para>mfag</para>
+        </entry>
+        <entry colname="6" morerows="0" rotate="0" align="center">
+          <para>rev.</para>
+        </entry>
+      </row>
+    </thead>
+    <tbody valign="top">
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetaldehyde cyanohydrin</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>lactonitrile solution</para>
+          <para>(80% or less)</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para> * </para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic acid</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>chapter 17</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>700</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para> * </para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic anhydride</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>chapter 17</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>1715</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>700</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic ester</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>ethyl acetate</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic ether</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>ethyl acetate</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic oxide</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetic anhydride</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetoacetic ester</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>ethyl acetoacetate</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para>z</para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetochlor</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>chapter 17</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>1997</para>
+        </entry>
+      </row>
+      <row rowsep="1">
+        <entry colname="1" morerows="0" colsep="0" rowsep="0" rotate="0" align="right">
+          <para> * </para>
+        </entry>
+        <entry colname="2" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>acetone</para>
+        </entry>
+        <entry colname="3" morerows="0" colsep="0" rowsep="0" rotate="0">
+          <para>chapter 18</para>
+        </entry>
+        <entry colname="4" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>1090</para>
+        </entry>
+        <entry colname="5" morerows="0" colsep="0" rowsep="0" rotate="0" align="center">
+          <para>300</para>
+        </entry>
+        <entry colname="6" morerows="0" rowsep="0" rotate="0" align="center">
+          <para>z</para>
+        </entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
